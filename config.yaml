@@ -3,7 +3,6 @@ cnmv_nifs: "A-28294726"
 # Puedes poner una o varias entre comillas. 
 # Si no quieres filtro, deja las comillas vacías: ""
 keywords:
-  - "Reclamación"
   - "Reclamación judicial"
   - "Reclamación extrajudicial"
   - "Procedimiento civil"
@@ -18,7 +17,6 @@ keywords:
   - "Acción judicial"
   - "Acción de reclamación"
   - "Condena"
-  - "Sentencia"
   - "Fallo judicial"
   - "Resolución judicial"
   - "Acuerdo extrajudicial"
